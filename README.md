@@ -1,3 +1,5 @@
+<img src="https://i2.wp.com/thisnameismine.com/wp-content/uploads/2021/10/image-edited.png">
+
 #360Diffusion automatically upscales your CLIP Guided Diffusion outputs using Real-ESRGAN.
 
 **Latest revision: Beta 1.52 (10/11/21):**
