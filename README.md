@@ -21,3 +21,9 @@ Credits & Acknowledgements
 Prior release(s): Implemented Daniel Russ’s Perlin revisions, fixed init_bug, 4096 double-pass, VRAM fixes, practical debug_mode (set to higher skip_timestep)
 
 All edits & additions are welcome and appreciated~
+
+---
+
+UPDATE: A simplified demo has been catered for individuals who are just getting into image generation. It uses 256 model, intended for free Colab GPUs.
+
+https://colab.research.google.com/github/sadnow/360Diffusion/blob/main/360Diffusion_Simplified-Demo.ipynb
