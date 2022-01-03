@@ -1,3 +1,5 @@
+Dev Note 01/02/21: This project will be receiving critical bug fixes throughout the next few days. Apologies for the wait!
+
 <img src="https://i2.wp.com/thisnameismine.com/wp-content/uploads/2021/10/image-edited.png">
 
 #360Diffusion automatically upscales your CLIP Guided Diffusion outputs using Real-ESRGAN.
