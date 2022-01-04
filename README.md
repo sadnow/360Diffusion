@@ -4,10 +4,10 @@ Dev Note 01/02/21: This project will be receiving critical bug fixes throughout 
 
 #360Diffusion automatically upscales your CLIP Guided Diffusion outputs using Real-ESRGAN.
 
-**Latest revision: Beta 1.52 (10/11/21):**
+**Latest revision: Alpha 1.6 (01/03/21):**
 https://colab.research.google.com/github/sadnow/360Diffusion/blob/main/360Diffusion_Public.ipynb
 
-*Latest highlights: Full compatibility for both 256 and 512 model for upscaling to 256,512,1024,2048, and 4096px.*
+*Latest highlights: Critical fixes
 
 Note that 4096 files aren’t quite as pretty as 2048, and they’re massive in file size. 2048 is appealing in most cases. If you intend on upscaling to anything higher than 1024, I recommend using the 512 diffusion model found in the settings-
 
@@ -25,9 +25,3 @@ Prior release(s): Implemented Daniel Russ’s Perlin revisions, fixed init_bug, 
 All edits & additions are welcome and appreciated~
 
 ---
-
-<strike>
-  UPDATE: A simplified demo has been catered for individuals who are just getting into image generation. It uses 256 model, intended for free Colab GPUs.
-
-  https://colab.research.google.com/github/sadnow/360Diffusion/blob/main/360Diffusion_Simplified-Demo.ipynb
-</strike>
