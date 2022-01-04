@@ -1,5 +1,3 @@
-Dev Note 01/02/21: This project will be receiving critical bug fixes throughout the next few days. Apologies for the wait!
-
 <img src="https://i2.wp.com/thisnameismine.com/wp-content/uploads/2021/10/image-edited.png">
 
 #360Diffusion automatically upscales your CLIP Guided Diffusion outputs using Real-ESRGAN.
@@ -22,6 +20,4 @@ Credits & Acknowledgements
 
 Prior release(s): Implemented Daniel Russ’s Perlin revisions, fixed init_bug, 4096 double-pass, VRAM fixes, practical debug_mode (set to higher skip_timestep)
 
-All edits & additions are welcome and appreciated~
-
----
+All edits & feedback are welcome and appreciated~
