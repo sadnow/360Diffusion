@@ -2,7 +2,7 @@
 
 #360Diffusion automatically upscales your CLIP Guided Diffusion outputs using Real-ESRGAN.
 
-**Latest revision: Alpha 1.6 (01/03/21):**
+**Latest revision: Alpha 1.6 (01/03/22):**
 https://colab.research.google.com/github/sadnow/360Diffusion/blob/main/360Diffusion_Public.ipynb
 
 *Latest highlights: Critical fixes
