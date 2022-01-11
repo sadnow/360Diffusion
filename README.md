@@ -2,10 +2,11 @@
 
 #360Diffusion automatically upscales your CLIP Guided Diffusion outputs using Real-ESRGAN.
 
-**Latest revision: Alpha 1.6 (01/03/22):**
+**Latest Update: Alpha 1.61 [Main Branch] - 01/11/22**
+- Layout adjustments
+- Refined seed handling
+- Misc: dprint function, changed default settings/prompts
 https://colab.research.google.com/github/sadnow/360Diffusion/blob/main/360Diffusion_Public.ipynb
-
-*Latest highlights: Critical fixes
 
 Note that 4096 files aren’t quite as pretty as 2048, and they’re massive in file size. 2048 is appealing in most cases. If you intend on upscaling to anything higher than 1024, I recommend using the 512 diffusion model found in the settings-
 
